@@ -26,7 +26,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const DOWNLOAD_URL =
-  "https://github.com/DarksenDev/tds-macro/releases/latest";
+  "https://github.com/DarksenDev/tds-macro/releases/latest/download/TDS_Macro.zip";
 
 const DISCORD_URL = "https://discord.gg/DQnc2JDJtr";
 
